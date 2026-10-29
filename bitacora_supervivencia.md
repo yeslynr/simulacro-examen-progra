@@ -52,7 +52,7 @@ verificado con una nueva prueba de JMeter, se puede desactivar el modo y
 restablecer el servicio completo.
 
 **Commit de recuperación:** `Activa modo solo-emergencias mientras se optimiza el listado de citas`
-(hash: ________ — péguelo aquí después de ejecutar `git log --oneline -1`)
+(hash: 587ccc0)
 
 ## 4. Aprendizaje / mejora
 
